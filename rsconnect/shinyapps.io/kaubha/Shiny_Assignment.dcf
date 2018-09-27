@@ -1,0 +1,12 @@
+name: Shiny_Assignment
+title: Shiny_Assignment
+username:
+account: kaubha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 472545
+bundleId: 1608747
+url: https://kaubha.shinyapps.io/Shiny_Assignment/
+when: 1538044157.90587
+asMultiple: FALSE
+asStatic: FALSE
